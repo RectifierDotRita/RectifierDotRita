@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me
 - 👀 I’m interested in exploring new technologies and develop sofeware solution and quick hacks.
-- :mortar_board: I'm currenly studying Geography Informationa and Data Science at the University of Washington.
+- :mortar_board: I'm currenly studying Geography Information and Data Science at the University of Washington.
 - 🌱 I’m on track for learning more about machine learning and React-Native. 
 - 💞️ I’m looking to collaborate on MERN projects.
 - 📫 You can shoot me an email at xiaoyz28@uw.edu!
